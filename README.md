@@ -33,8 +33,8 @@ Este projeto é um exemplo de um microserviço de usuário, desenvolvido com o o
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/seu-usuario/user-microservice.git
-    cd user-microservice
+    git clone https://github.com/rafael2801/RabbitMicro_User.git
+    cd RabbitMicro_User
     ```
 
 2. Configure as propriedades do banco de dados e do RabbitMQ no arquivo `application.properties`:
